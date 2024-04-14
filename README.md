@@ -49,6 +49,10 @@ Engineer💸 and an Open Source Contributor ❤️.
 
 ### 🛠️ Languages and Tools:
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=machine-learning)
+![SEO](https://img.shields.io/badge/-SEO-black?style=flat-square&logo=seo)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
