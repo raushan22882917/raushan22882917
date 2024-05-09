@@ -12,7 +12,7 @@
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanDhimanD" alt="Raushan Kumar" /> </p>
 <a href="https://www.linkedin.com/in/raushan2288/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: red;" />
 </a>
 
 <a href="https://twitter.com/RaushanKumr2288">
