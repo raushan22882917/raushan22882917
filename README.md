@@ -2,7 +2,8 @@
 
 <hr style="border: 1px solid #ff4d4d;"/>
 
-<p align="left" style="color: #ff704d;">My name is <span style="font-weight: bold;">Raushan Kumar</span> and I'm a <span style="color: #ff9e9e;">Fronted and Backend Feveloper</span>, from <span style="color: #ff9e9e;"</span></p>
+<p align="left" style="color: #ff704d;">My name is <span style="font-weight: bold;">Raushan Kumar</span> and I'm a <span style="color: #ff9e9e;">Fronted and Backend Feveloper</span>
+</p>
 
 <hr style="border: 1px solid #ff704d;"/>
 
