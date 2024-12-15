@@ -12,13 +12,13 @@
 
 <p align="left" style="color: #c0392b;">
     ✨ Since 2024, I've been dedicated to crafting software solutions that bridge the gap between technology and user experience, helping businesses grow and innovate. My journey has been marked by a passion for problem-solving and automation, driving me to develop custom tools and platforms that streamline workflows and enhance operational efficiency.
-    
-    📚 Currently, I’m diving deep into the world of <span style="color: #e67e22;">Deep Learning</span> and <span style="color: #e67e22;">Artificial Intelligence</span>, focusing on integrating AI capabilities into everyday applications to create smarter, more interactive experiences. My ongoing learning involves exploring advanced neural network architectures and their applications in various domains.
-    
-    🚀 I am particularly interested in <span style="color: #e67e22;">Machine Learning</span> and <span style="color: #e67e22;">Data Science</span>, where I leverage data to inform business decisions, create predictive models, and automate complex tasks. My experience spans across various domains, from e-commerce and technical platforms to educational tools, each project adding a new layer of understanding and capability to my skill set.
-    
+......
+     📚 Currently, I’m diving deep into the world of Deep Learning</span> and  Artificial Intelligence, focusing on integrating AI capabilities into everyday applications to create smarter, more interactive experiences. My ongoing learning involves exploring advanced neural network architectures and their applications in various domains.
+.......
+       🚀 I am particularly interested in Machine Learning</span> and  where I leverage data to inform business decisions, create predictive models, and automate complex tasks. My experience spans across various domains, from e-commerce and technical platforms to educational tools, each project adding a new layer of understanding and capability to my skill set.
+......
     💡 My development approach is grounded in agile methodologies, emphasizing iterative progress and collaboration with cross-functional teams to ensure that solutions are both scalable and efficient. I believe in building robust APIs and using modern frameworks like Flask, Django, React.js, and Next.js to deliver high-quality applications.
-    
+......
     🛠️ Outside of development, I am actively engaged in the tech community, contributing to open-source projects and mentoring upcoming developers. My role as a technical intern at Moglix and ByteUp AI has honed my skills in web scraping, automation, and tool development, making me adept at handling real-world data challenges and delivering effective solutions on tight deadlines.
 </p>
 
