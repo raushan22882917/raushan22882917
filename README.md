@@ -76,13 +76,21 @@
 <h2 align="left" style="color: #e74c3c;">Areas of Interest</h2>
 <hr style="border: 1px solid #e74c3c;" />
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="Machine Learning logo" />
+<h2 align="left" style="color: #e74c3c;">Areas of Interest</h2>
+<hr style="border: 1px solid #e74c3c;" />
+
+<div align="left" style="color: #c0392b; font-weight: bold; font-size: 1.1em;">
+    <span>Machine Learning</span>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/automation/automation-original.svg" height="40" alt="Automation logo" />
+    <span>Automation</span>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/softwaredevelopment/softwaredevelopment-original.svg" height="40" alt="Software Development logo" />
+    <span>Scraping</span>
+    <img width="12" />
+    <span>Full Stack Development</span>
+    <img width="12" />
+    <span>Developer Tools</span>
 </div>
+
 
 <hr style="border: 1px solid #e67e22;" />
 
