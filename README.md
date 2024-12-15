@@ -2,7 +2,7 @@
 <hr style="border: 1px solid #e74c3c;" />
 
 <p align="left" style="color: #c0392b;">
-    I'm <span style="font-weight: bold;">Raushan Kumar</span>, a passionate <span style="color: #e67e22;">Full Stack Developer</span> with expertise in building scalable and innovative solutions for web and software development.
+    I'm <span style="font-weight: bold;">Raushan Kumar</span>, a skilled <span style="color: #e67e22;">Full Stack Developer</span> with a passion for creating innovative web and software solutions.
 </p>
 
 <hr style="border: 1px solid #e67e22;" />
@@ -47,14 +47,38 @@
 
 <hr style="border: 1px solid #e67e22;" />
 
+<h2 align="left" style="color: #e74c3c;">Projects</h2>
+<hr style="border: 1px solid #e74c3c;" />
+
+<div align="left">
+    <div style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+        <span style="color: #c0392b;">AI-Powered Interview Platform</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+        <span style="color: #c0392b;">Uranium Tracker API and Data Dashboard</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
+        <span style="color: #c0392b;">AI-Powered News Platform</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright logo" />
+        <span style="color: #c0392b;">Trading Chatbot for Quotex</span>
+    </div>
+</div>
+
+<hr style="border: 1px solid #e67e22;" />
+
 <h2 align="left" style="color: #e74c3c;">Expertise</h2>
 <hr style="border: 1px solid #e74c3c;" />
 
 <p align="left" style="color: #c0392b;">
-    🛠 Automation: <span style="color: #e67e22;">Selenium, Playwright</span><br>
-    🕷 Web Scraping: <span style="color: #e67e22;">BeautifulSoup, Scrapy</span><br>
+    🛠 Automation: <span style="color: #e67e22;">Selenium, Playwright, Puppeteer, Cypress</span><br>
+    🕷 Web Scraping: <span style="color: #e67e22;">BeautifulSoup, Scrapy, Cheerio</span><br>
     📊 Data Handling: <span style="color: #e67e22;">PostgreSQL, MongoDB, MySQL</span><br>
-    🌐 Deployment: <span style="color: #e67e22;">AWS, Docker, Render</span><br>
+    🌐 Deployment: <span style="color: #e67e22;">Google cloud,Microsoft Azure, Docker, Render,Digital Ocean</span><br>
     🚀 Frameworks: <span style="color: #e67e22;">React.js, Django, Flask, Next.js</span><br>
     🔄 CI/CD: <span style="color: #e67e22;">GitLab CI, Jenkins</span>
 </p>
