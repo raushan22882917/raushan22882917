@@ -71,10 +71,8 @@
     <img width="12" />
 </div>
 
-<hr style="border: 1px solid #e67e22;" />
+<hr style="border: 1px dotted #e67e22;" />
 
-<h2 align="left" style="color: #e74c3c;">Areas of Interest</h2>
-<hr style="border: 1px solid #e74c3c;" />
 
 <h2 align="left" style="color: #e74c3c;">Areas of Interest</h2>
 <hr style="border: 1px solid #e74c3c;" />
@@ -92,10 +90,7 @@
 </div>
 
 
-<hr style="border: 1px solid #e67e22;" />
-
-<h2 align="left" style="color: #e74c3c;">Projects</h2>
-<hr style="border: 1px solid #e74c3c;" />
+<hr style="border: 1px double #e67e22;" />
 
 <h2 align="left" style="color: #e74c3c;">Projects</h2>
 <hr style="border: 1px solid #e74c3c;" />
