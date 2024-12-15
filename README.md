@@ -97,24 +97,44 @@
 <h2 align="left" style="color: #e74c3c;">Projects</h2>
 <hr style="border: 1px solid #e74c3c;" />
 
-<div align="left">
-    <div style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-        <span style="color: #c0392b;">AI-Powered Interview Platform</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-        <span style="color: #c0392b;">Uranium Tracker API and Data Dashboard</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-        <span style="color: #c0392b;">AI-Powered News Platform</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright logo" />
-        <span style="color: #c0392b;">Trading Chatbot for Quotex</span>
-    </div>
-</div>
+<h2 align="left" style="color: #e74c3c;">Projects</h2>
+<hr style="border: 1px solid #e74c3c;" />
+
+<ul style="color: #c0392b; font-size: 1.1em; list-style-type: disc; margin-left: 20px;">
+    <li>
+        <span style="font-weight: bold;">AI-Powered Interview Platform</span>
+        <a href="https://github.com/raushan22882917/ai-interview-platform" target="_blank" style="margin-left: 10px; text-decoration: none;">
+            <button style="background-color: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer;">
+                View on GitHub
+            </button>
+        </a>
+    </li>
+    <li>
+        <span style="font-weight: bold;">Uranium Tracker API and Data Dashboard</span>
+        <a href="https://github.com/raushan22882917/uranium-tracker-api" target="_blank" style="margin-left: 10px; text-decoration: none;">
+            <button style="background-color: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer;">
+                View on GitHub
+            </button>
+        </a>
+    </li>
+    <li>
+        <span style="font-weight: bold;">AI-Powered News Platform</span>
+        <a href="https://github.com/raushan22882917/ai-news-platform" target="_blank" style="margin-left: 10px; text-decoration: none;">
+            <button style="background-color: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer;">
+                View on GitHub
+            </button>
+        </a>
+    </li>
+    <li>
+        <span style="font-weight: bold;">Trading Chatbot for Quotex</span>
+        <a href="https://github.com/raushan22882917/trading-chatbot-quotex" target="_blank" style="margin-left: 10px; text-decoration: none;">
+            <button style="background-color: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer;">
+                View on GitHub
+            </button>
+        </a>
+    </li>
+</ul>
+
 
 <hr style="border: 1px solid #e67e22;" />
 
